@@ -1,7 +1,8 @@
 {
     "name": "Refer and Earn Python Telegram BoT",
+    "logo" : "https://telegra.ph/file/28d014be67d89ef845834.jpg",
     "description": "A Refer and Earn telegram bot.",
-    "repository": "https://github.com/fadilniju",
+    "repository": "https://github.com/midlajppm/PyBot",
     "keywords": [
        
         "telegram bot",
