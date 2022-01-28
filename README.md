@@ -9,6 +9,6 @@ Simple Python Refer and Earn Bot with deploy to Heroku support
 You can deploy this ASP.Net MVC website on Heroku server by clicking below button
 <br/>
 <br/>
-<a href="https://heroku.com/deploy?template=https://github.com/fadilniju/python-refer-and-earn-Bot">
+<a href="https://heroku.com/deploy?template=PyBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
